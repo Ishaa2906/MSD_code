@@ -1,0 +1,12 @@
+node_modules
+# Environment variables and secret keys
+.env
+back_end/.env
+
+# Installed Node.js packages
+node_modules/
+back_end/node_modules/
+sfs_frontend/node_modules/
+
+# Uploaded user files
+back_end/uploads/
